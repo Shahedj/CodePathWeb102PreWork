@@ -27,6 +27,10 @@ Here's a walkthrough of implemented features:
 <img src='/Users/shahed/Movies/Kaptures/PREWORKCODEPATH1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
+![PREWORKONEWEBone](https://github.com/Shahedj/CodePathWeb102PreWork/assets/98992587/2462ef9c-9c74-4658-8589-05edf43e8c12)
+
+
+
 <!--<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />--> 
 
 <!-- Replace this with whatever GIF tool you used! -->
