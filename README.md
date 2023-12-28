@@ -24,11 +24,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features (it's low quality since GitHub does not allow more than 10MB sized gifs): 
 
-![PREWORKONEWEBone](https://github.com/Shahedj/CodePathWeb102PreWork/assets/98992587/2462ef9c-9c74-4658-8589-05edf43e8c12)
 
+![test2](https://github.com/Shahedj/CodePathWeb102PreWork/assets/98992587/a4b6d722-6117-41d4-9d79-bb92184b3290)
 
-
-<!--<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />--> 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap.
