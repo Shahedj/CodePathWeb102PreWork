@@ -22,10 +22,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='/Users/shahed/Movies/Kaptures/PREWORKCODEPATH1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+Here's a walkthrough of implemented features (it's low quality since GitHub does not allow more than 10MB sized gifs): 
 
 ![PREWORKONEWEBone](https://github.com/Shahedj/CodePathWeb102PreWork/assets/98992587/2462ef9c-9c74-4658-8589-05edf43e8c12)
 
